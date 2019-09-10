@@ -5,5 +5,5 @@ namespace DateTi\Holidays;
 
 interface HolidaysInterface
 {
-
+    public function isHoliday(): bool;
 }
