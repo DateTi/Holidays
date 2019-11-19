@@ -13,9 +13,18 @@
         "php": ">=7.2",
         "dateti/time": "*"
     },
+    "require-dev": {
+        "mockery/mockery": "^1.2",
+        "dateti/dateti": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "DateTi\\Holidays\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "DateTiTests\\": "tests"
         }
     },
     "scripts": {
