@@ -1,6 +1,6 @@
 <?php
 
-namespace DateTiTests;
+namespace DateTiTests\Holidays;
 
 use DateTi\Holidays\EasterHolidayInterface;
 use DateTi\Holidays\HolidaysInterface;
