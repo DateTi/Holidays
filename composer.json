@@ -14,8 +14,7 @@
         "dateti/time": "*"
     },
     "require-dev": {
-        "mockery/mockery": "^1.2",
-        "dateti/dateti": "dev-master"
+        "mockery/mockery": "^1.2"
     },
     "autoload": {
         "psr-4": {
